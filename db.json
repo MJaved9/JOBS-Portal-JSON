@@ -1,0 +1,52 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "company": "Ellette",
+      "postedAt": "2021-03-30",
+      "city": "Gangtok",
+      "location": "American Samoa",
+      "role": "Frontend",
+      "level": "Junior",
+      "contract": "Full Time",
+      "position": " Backend Developer",
+      "language": "Java"
+    },
+    {
+      "company": "Jinny",
+      "city": "Allahbad",
+      "location": "Delhi",
+      "role": "Backend",
+      "level": "Senior",
+      "position": "FSD",
+      "language": "JavaScript",
+      "contract": "Full Time",
+      "postedAt": "2022-12-19",
+      "id": 2
+    },
+    {
+      "company": "Ainny",
+      "city": "Allahbad",
+      "location": "Delhi",
+      "role": "Fronted",
+      "level": "Senior",
+      "position": "FSD",
+      "language": "JavaScript",
+      "contract": "Full Time",
+      "postedAt": "2022-12-19",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "company": "lett",
+      "postedAt": "2021-03-30",
+      "city": "Gangtok",
+      "location": "American Samoa",
+      "role": "Frontend",
+      "level": "Junior",
+      "contract": "Full Time",
+      "position": " Backend Developer",
+      "language": "Java"
+    }
+  ]
+}
